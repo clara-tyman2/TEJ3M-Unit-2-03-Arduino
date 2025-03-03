@@ -1,10 +1,13 @@
 /*
-  Blink with Breadboard and LED with resistor
+ Created by Clara T
 
-  Turns LED on for one second, the off for one second, each time increases each time by 1 more second
+ Created on Feb 2025
 
-  created Feb 2025 by Clara T
- */
+ Blink with Breadboard and LED with resistor
+
+ Turns LED on for one second, the off for one second, each time increases each time by 1 more second
+*/
+
 
  const int PIN_5 = 5;
 
